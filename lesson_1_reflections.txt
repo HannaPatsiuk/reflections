@@ -1,0 +1,12 @@
+Commands:
+diff -u file.html file2.html // shows differnece btw 2 files
+touch index.html - crates file
+mkdir - creates folder
+ls - list contents
+ls -a - list hidden files starting with period .
+pwd 
+
+
+git log - changes in files 
+git log --stat
+q for exiting git log command 
